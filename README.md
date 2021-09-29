@@ -1,4 +1,4 @@
-# Student Name: AmieSWijeratne21
+# Student Name: AmieShanaya Wijeratne
 ## Student ID: 22012825
 
 
