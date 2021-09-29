@@ -7,7 +7,7 @@
 A paragraph of your interests in computing and why you enrolled in your course
 
 ## CO452 Lesson : {Fri 13:00 Derek}
-1. [App21-01-Enrollments]("https://github.com/BNU-CO452/BlueJ-Apps/wiki/App-211")   
+1. [App21-01-Enrollments]()   
 2. [App21-02-Grades]()   
 3. [App21-03-Products]()
 4. [App21-04-Stock]()
