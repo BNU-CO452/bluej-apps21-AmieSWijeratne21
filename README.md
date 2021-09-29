@@ -1,4 +1,4 @@
-# Student Name: Amie Shanaya Wijeratne 
+# Student Name: AmieSWijeratne21
 ## Student ID: 22012825
 
 
@@ -6,7 +6,7 @@
 ## Course: {BSc Hons Cybersecurity}
 A paragraph of your interests in computing and why you enrolled in your course
 
-## CO452 Lesson : {Fri 13:00 Derek}
+## CO452 Lesson : {Wed 9:00 Nick}
 1. [App21-01-Enrollments]()   
 2. [App21-02-Grades]()   
 3. [App21-03-Products]()
