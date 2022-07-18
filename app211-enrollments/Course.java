@@ -4,7 +4,7 @@ import java.util.*;
  * This class contains information about an undergraduate course
  * at BNU together with a list of student who are enrolled
  *
- * @author Derek Peacock
+ * @author Amie Shanaya Wijeratne 22012825
  * @version 1.0 14/07/2021
  */
 public class Course
@@ -43,7 +43,7 @@ public class Course
     private void printHeading()
     {
         System.out.println(" --------------------------------");
-        System.out.println("   App211: Course Details");
+        System.out.println("   App211 Programming Concepts: Course Details");
         System.out.println(" --------------------------------");
         System.out.println();
     }

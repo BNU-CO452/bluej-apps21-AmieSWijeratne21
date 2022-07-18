@@ -1,0 +1,26 @@
+Student amie = new Student("Amie", 22012825);
+Student tayyib = new Student("Tayyib", 22045400);
+amie.getName()
+    returned String "Amie"
+amie.getID()
+    returned int 22012825
+amie.print();
+
+Course cyberSecurity = new Course("MT1CYS1", "Cyber Security");
+cyberSecurity.print();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: MT1CYS1: Cyber Security
+
+Student Amie = new Student("Amie", 22012825);
+Course cyberSecurity = new Course("MT1CYS1", "BSc Cyber Security");
+Amie.enrol(cyberSecurity);
+cyberSecurity.print();
+ --------------------------------
+   App211 Programming Concepts: Course Details
+ --------------------------------
+
+ Course Code: MT1CYS1: BSc Cyber Security
+
