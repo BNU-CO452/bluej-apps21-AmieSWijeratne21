@@ -1,5 +1,4 @@
 Student amie = new Student("Amie", 22012825);
-Student tayyib = new Student("Tayyib", 22045400);
 amie.getName()
     returned String "Amie"
 amie.getID()
