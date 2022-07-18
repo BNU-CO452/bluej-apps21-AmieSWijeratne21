@@ -23,25 +23,14 @@ UTF-8
 C:\Users\Owner\Documents\Amie\Uni\Semester 1 Units\CO452 - Programming Concepts\Retaking work\bluej-apps21-AmieSWijeratne21\app211-enrollments\Student.java
 <---- end of javadoc command ---->
 Loading source file C:\Users\Owner\Documents\Amie\Uni\Semester 1 Units\CO452 - Programming Concepts\Retaking work\bluej-apps21-AmieSWijeratne21\app211-enrollments\Student.java...
-C:\Users\Owner\Documents\Amie\Uni\Semester 1 Units\CO452 - Programming Concepts\Retaking work\bluej-apps21-AmieSWijeratne21\app211-enrollments\Student.java:13: error: illegal start of type
-    private int id; ["22012825"];
-                    ^
-C:\Users\Owner\Documents\Amie\Uni\Semester 1 Units\CO452 - Programming Concepts\Retaking work\bluej-apps21-AmieSWijeratne21\app211-enrollments\Student.java:13: error: ']' expected
-    private int id; ["22012825"];
-                     ^
-C:\Users\Owner\Documents\Amie\Uni\Semester 1 Units\CO452 - Programming Concepts\Retaking work\bluej-apps21-AmieSWijeratne21\app211-enrollments\Student.java:15: error: illegal start of type
-    private String name; <Amie> <Shanaya> <Wijeratne>
-                                ^
-C:\Users\Owner\Documents\Amie\Uni\Semester 1 Units\CO452 - Programming Concepts\Retaking work\bluej-apps21-AmieSWijeratne21\app211-enrollments\Student.java:15: error: illegal start of expression
-    private String name; <Amie> <Shanaya> <Wijeratne>
-                                          ^
-C:\Users\Owner\Documents\Amie\Uni\Semester 1 Units\CO452 - Programming Concepts\Retaking work\bluej-apps21-AmieSWijeratne21\app211-enrollments\Student.java:17: error: illegal start of expression
-    private Course name; BSc (j  
-    ^
-C:\Users\Owner\Documents\Amie\Uni\Semester 1 Units\CO452 - Programming Concepts\Retaking work\bluej-apps21-AmieSWijeratne21\app211-enrollments\Student.java:17: error: invalid method declaration; return type required
-    private Course name; BSc (j  
-                         ^
-C:\Users\Owner\Documents\Amie\Uni\Semester 1 Units\CO452 - Programming Concepts\Retaking work\bluej-apps21-AmieSWijeratne21\app211-enrollments\Student.java:17: error: <identifier> expected
-    private Course name; BSc (j  
-                               ^
-7 errors
+Constructing Javadoc information...
+Standard Doclet version 11.0.14.1
+Building tree for all the packages and classes...
+Generating C:\Users\Owner\Documents\Amie\Uni\Semester 1 Units\CO452 - Programming Concepts\Retaking work\bluej-apps21-AmieSWijeratne21\app211-enrollments\doc\Student.html...
+Generating C:\Users\Owner\Documents\Amie\Uni\Semester 1 Units\CO452 - Programming Concepts\Retaking work\bluej-apps21-AmieSWijeratne21\app211-enrollments\doc\package-summary.html...
+Generating C:\Users\Owner\Documents\Amie\Uni\Semester 1 Units\CO452 - Programming Concepts\Retaking work\bluej-apps21-AmieSWijeratne21\app211-enrollments\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Owner\Documents\Amie\Uni\Semester 1 Units\CO452 - Programming Concepts\Retaking work\bluej-apps21-AmieSWijeratne21\app211-enrollments\doc\allclasses.html...
+Generating C:\Users\Owner\Documents\Amie\Uni\Semester 1 Units\CO452 - Programming Concepts\Retaking work\bluej-apps21-AmieSWijeratne21\app211-enrollments\doc\allclasses.html...
+Generating C:\Users\Owner\Documents\Amie\Uni\Semester 1 Units\CO452 - Programming Concepts\Retaking work\bluej-apps21-AmieSWijeratne21\app211-enrollments\doc\index.html...

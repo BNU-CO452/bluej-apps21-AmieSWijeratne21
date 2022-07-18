@@ -3,7 +3,6 @@ import java.util.*;
 /**
  * This class contains information about an undergraduate course
  * at BNU together with a list of student who are enrolled
- *
  * @author Amie Shanaya Wijeratne 22012825
  * @version 1.0 14/07/2021
  */
