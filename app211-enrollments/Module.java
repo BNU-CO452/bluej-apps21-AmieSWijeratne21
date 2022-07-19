@@ -2,13 +2,15 @@
 /**
  * Write a description of class Module here.
  *
- * @author (Amie Shanaya Wijeratne)
+ * @author Amie Shanaya Wijeratne
  * @version (05/10/2021)
  */
 public class Module
 {
     // instance variables - replace the example below with your own
-    private int x;
+    private String code;
+    private String title; 
+    private int credit;
 
     /**
      * Constructor for objects of class Module
@@ -16,18 +18,17 @@ public class Module
     public Module()
     {
         // initialise instance variables
-        x = 0;
+        
     }
 
     /**
      * An example of a method - replace this comment with your own
      *
-     * @param  y  a sample parameter for a method
-     * @return    the sum of x and y
+     * @param 
+     * @return    
      */
-    public int sampleMethod(int y)
+    public void sampleMethod()
     {
         // put your code here
-        return x + y;
     }
 }
