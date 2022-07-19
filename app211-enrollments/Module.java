@@ -15,20 +15,39 @@ public class Module
     /**
      * Constructor for objects of class Module
      */
-    public Module()
+    public Module(String code, String title)
     {
         // initialise instance variables
-        
+        this.code = code; 
+        this.title = title;
+        credit = 0;
     }
 
     /**
      * An example of a method - replace this comment with your own
      *
      * @param 
-     * @return    
+     * @return code
      */
-    public void sampleMethod()
+    public String getCode()
     {
-        // put your code here
+        return this.code;
     }
+    
+        /**
+     * An example of a method - replace this comment with your own
+     *
+     * @param 
+     * @return code
+     */
+    public String getTitle()
+    {
+        return this.title;
+    }
+    
+    public int getCredit()
+    {
+        return this.credit;
+    }
+    
 }
