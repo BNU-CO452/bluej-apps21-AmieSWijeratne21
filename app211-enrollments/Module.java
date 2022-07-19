@@ -50,4 +50,9 @@ public class Module
         return this.credit;
     }
     
+    public void setCredit(int credit)
+    {
+        this.credit = credit;
+    }
+    
 }
