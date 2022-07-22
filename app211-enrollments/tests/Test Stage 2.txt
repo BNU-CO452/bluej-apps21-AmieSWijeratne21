@@ -1,0 +1,12 @@
+Course CyberSecurity = new Course("MT1CYS1", "BSc (Hons) Cyber Security");
+Module programmingconcepts = new Module("CO452", "Programming Concepts");
+CyberSecurity.addModule(programmingconcepts);
+CyberSecurity.print();
+ --------------------------------
+   App211 Programming Concepts: Course Details
+ --------------------------------
+
+ Course Code: MT1CYS1: BSc (Hons) Cyber Security
+
+ Module Code: CO452: Programming ConceptsCredit 15
+
