@@ -1,0 +1,17 @@
+Student amie = new Student("Amie", 22012825);
+Course cybersecurity = new Course("MT1CYS1", "BSc (Hons) Cyber Security");
+amie.enrol(cybersecurity);
+amie.printCourse();
+ Student ID: 22012825, Amie
+
+ Course MT1CYS1: BSc (Hons) Cyber Security
+
+Module CO452 = new Module("CO452", "Programming Concepts");
+cybersecurity.addModule(CO452);
+Student tayyib = new Student("Tayyib", 2204500);
+ModuleMark AmieC0452Mark = new ModuleMark(CO452);
+Module appsprogramming = new Module("CO453", "Application Programming");
+cybersecurity.addModule(appsprogramming);
+ModuleMark AmieCO453Mark = new ModuleMark(appsprogramming);
+AmieC0452Mark.setMark(50);
+AmieCO453Mark.setMark(53);
